@@ -1,6 +1,7 @@
 # app.py
 # This is a test commit
 def add(a, b, c):
+    d=76
     return a + b + c
 
 def test_add():
